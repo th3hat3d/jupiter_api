@@ -33,4 +33,4 @@ List of features to implement:
 - [ ] Listing class assignments
 - [ ] All features under teacher accounts
 
-No credentials are ever seen by me on my hosted instance (https://jupiter_api.deadandbeef.com). I swear on my life.
+No credentials are ever seen by me on my hosted instance (http://jupiter_api.deadandbeef.com). I swear on my life.
