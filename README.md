@@ -22,7 +22,7 @@ Current features:
 - Download profile picture
 
 List of features to implement:
-- [ ] HTTPS in the Flask API
+- [x] HTTPS in the Flask API
 - [ ] Automatic handling of browser instances
 - [ ] Rate limiting
 - [ ] Listing teachers
@@ -33,4 +33,4 @@ List of features to implement:
 - [ ] Listing class assignments
 - [ ] All features under teacher accounts
 
-No credentials are ever seen by me on my hosted instance (http://jupiter_api.deadandbeef.com). I swear on my life.
+No credentials are ever seen by me on my hosted instance (https://jupiterapi.deadandbeef.com). I swear on my life.
