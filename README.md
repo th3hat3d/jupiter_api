@@ -28,7 +28,7 @@ List of features to implement:
 - [ ] Listing teachers
 - [ ] Calculating GPA
 - [ ] Listing assignment grades
-- [ ] Calculating class averages and letter grades
+- [x] Calculating class averages and letter grades
 - [ ] View to-do list
 - [ ] Listing class assignments
 - [ ] All features under teacher accounts
