@@ -22,4 +22,13 @@ def list_the_grades():
    return list_grades(request.form.get('user'),request.form.get('pass'), request.form.get('school_year'))
   else:
    return list_grades(request.form.get('user'),request.form.get('pass'))
+
+@app.route("/api/list/teachers", methods=['POST'])
+def list_the_teachers():
+ if request.method == 'POST':
+  if request.form.get('school_year'):
+   return list_teachers(request.form.get('user'),request.form.get('pass'), request.form.get('school_year'))
+  else:
+   return list_teachers(request.form.get('user'),request.form.get('pass'))
+
 app.run()

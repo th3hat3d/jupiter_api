@@ -25,7 +25,7 @@ List of features to implement:
 - [x] HTTPS in the Flask API
 - [ ] Automatic handling of browser instances
 - [ ] Rate limiting
-- [ ] Listing teachers
+- [x] Listing teachers (will fix commas for multiple teachers soon)
 - [ ] Calculating GPA
 - [ ] Listing assignment grades
 - [x] Calculating class averages and letter grades
