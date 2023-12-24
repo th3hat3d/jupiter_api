@@ -20,6 +20,7 @@ Current features:
 - List classes
 - Switch between school terms
 - Download profile picture
+- Calculate GPA per MP
 
 List of features to implement:
 - [x] HTTPS in the Flask API
