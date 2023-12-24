@@ -26,7 +26,7 @@ List of features to implement:
 - [ ] Automatic handling of browser instances
 - [ ] Rate limiting
 - [x] Listing teachers (will fix commas for multiple teachers soon)
-- [ ] Calculating GPA
+- [x] Calculating (MP) GPA
 - [ ] Listing assignment grades
 - [x] Calculating class averages and letter grades
 - [ ] View to-do list
