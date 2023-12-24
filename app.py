@@ -37,7 +37,7 @@ def get_the_gpa():
   if request.form.get('school_year'):
    return calculate_gpa(request.form.get('user'),request.form.get('pass'), request.form.get('school_year'))
   elif request.form.get('mp'):
-   return calculate_gpa(request.form.get('user'),request.form.get('pass'), request.form.get('mp'))
+   return calculate_gpa(request.form.get('user'),request.form.get('pass'), "current", request.form.get('mp'))
   else:
    return calculate_gpa(request.form.get('user'),request.form.get('pass'))
 app.run()
